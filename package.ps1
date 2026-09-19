@@ -13,9 +13,14 @@ if (Test-Path $portableDir) {
 }
 New-Item $portableDir -ItemType Directory | Out-Null
 Copy-Item $game (Join-Path $portableDir 'NeonBrawl.exe')
+$assets = Join-Path $projectRoot 'assets'
+if (Test-Path $assets) {
+    Copy-Item $assets (Join-Path $portableDir 'assets') -Recurse -Force
+}
 
 @'
 @echo off
+cd /d "%~dp0"
 start "Neon Brawl" "%~dp0NeonBrawl.exe"
 '@ | Set-Content (Join-Path $portableDir 'NeonBrawl.bat') -Encoding ASCII
 
@@ -33,6 +38,13 @@ Enter / Space - confirm
 Main menu: Up / Down - choose item
 Settings: Up / Down - choose field, Left / Right - change value
 Esc - menu
+Default display mode: fullscreen at the current monitor resolution
+
+Assets:
+assets/menu/background.png - main menu background
+assets/arenas/<name>/background.png - arena background
+assets/arenas/<name>/ground.png - arena ground, anchored to the bottom
+Recommended ground size: 1280x80
 '@ | Set-Content (Join-Path $portableDir 'README.txt') -Encoding ASCII
 
 Write-Host "Portable package created: $portableDir" -ForegroundColor Green
