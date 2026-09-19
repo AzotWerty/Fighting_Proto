@@ -1,0 +1,21 @@
+# ninja log v7
+3	62	8115438359203218	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-mkdir	41424817d1408a5a
+3	62	8115438359203218	E:/Users/Михаил/Docs/Игровые файлы/Proto/build-ninja/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-mkdir	41424817d1408a5a
+62	39197	8115438750552578	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-download	660e7a20fa3c8a66
+62	39197	8115438750552578	E:/Users/Михаил/Docs/Игровые файлы/Proto/build-ninja/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-download	660e7a20fa3c8a66
+39197	39276	8115438751338867	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-update	26a845d5673f6e3b
+39197	39276	8115438751338867	E:/Users/Михаил/Docs/Игровые файлы/Proto/build-ninja/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-update	26a845d5673f6e3b
+39276	39336	8115438751933510	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-patch	52178637db790925
+39276	39336	8115438751933510	E:/Users/Михаил/Docs/Игровые файлы/Proto/build-ninja/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-patch	52178637db790925
+39336	39395	8115438752517029	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-configure	38ce0b647185c228
+39336	39395	8115438752517029	E:/Users/Михаил/Docs/Игровые файлы/Proto/build-ninja/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-configure	38ce0b647185c228
+39395	39456	8115438753135374	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-build	d50a4f86a57eb57e
+39395	39456	8115438753135374	E:/Users/Михаил/Docs/Игровые файлы/Proto/build-ninja/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-build	d50a4f86a57eb57e
+39456	39515	8115438753714279	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-install	f5efe1655f92e57
+39456	39515	8115438753714279	E:/Users/Михаил/Docs/Игровые файлы/Proto/build-ninja/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-install	f5efe1655f92e57
+39516	39574	8115438754312672	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-test	86dbf6c0bb792459
+39516	39574	8115438754312672	E:/Users/Михаил/Docs/Игровые файлы/Proto/build-ninja/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-test	86dbf6c0bb792459
+39574	39655	8115438755126544	CMakeFiles/raylib-populate-complete	3a103c703e6f633
+39574	39655	8115438755126544	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-done	3a103c703e6f633
+39574	39655	8115438755126544	E:/Users/Михаил/Docs/Игровые файлы/Proto/build-ninja/_deps/raylib-subbuild/CMakeFiles/raylib-populate-complete	3a103c703e6f633
+39574	39655	8115438755126544	E:/Users/Михаил/Docs/Игровые файлы/Proto/build-ninja/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-done	3a103c703e6f633

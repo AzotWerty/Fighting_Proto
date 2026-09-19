@@ -1,0 +1,14 @@
+# Target labels
+ raylib-populate
+# Source files and their labels
+E:/Users/Михаил/Docs/Игровые файлы/Proto/build-ninja/_deps/raylib-subbuild/CMakeFiles/raylib-populate
+E:/Users/Михаил/Docs/Игровые файлы/Proto/build-ninja/_deps/raylib-subbuild/CMakeFiles/raylib-populate.rule
+E:/Users/Михаил/Docs/Игровые файлы/Proto/build-ninja/_deps/raylib-subbuild/CMakeFiles/raylib-populate-complete.rule
+E:/Users/Михаил/Docs/Игровые файлы/Proto/build-ninja/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-build.rule
+E:/Users/Михаил/Docs/Игровые файлы/Proto/build-ninja/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-configure.rule
+E:/Users/Михаил/Docs/Игровые файлы/Proto/build-ninja/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-download.rule
+E:/Users/Михаил/Docs/Игровые файлы/Proto/build-ninja/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-install.rule
+E:/Users/Михаил/Docs/Игровые файлы/Proto/build-ninja/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-mkdir.rule
+E:/Users/Михаил/Docs/Игровые файлы/Proto/build-ninja/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-patch.rule
+E:/Users/Михаил/Docs/Игровые файлы/Proto/build-ninja/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-test.rule
+E:/Users/Михаил/Docs/Игровые файлы/Proto/build-ninja/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-update.rule

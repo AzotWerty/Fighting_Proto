@@ -1,0 +1,11 @@
+{
+	"InstallScripts" : 
+	[
+		"E:/Users/\u041c\u0438\u0445\u0430\u0438\u043b/Docs/\u0418\u0433\u0440\u043e\u0432\u044b\u0435 \u0444\u0430\u0439\u043b\u044b/Proto/build-ninja/cmake_install.cmake",
+		"E:/Users/\u041c\u0438\u0445\u0430\u0438\u043b/Docs/\u0418\u0433\u0440\u043e\u0432\u044b\u0435 \u0444\u0430\u0439\u043b\u044b/Proto/build-ninja/_deps/raylib-build/cmake_install.cmake",
+		"E:/Users/\u041c\u0438\u0445\u0430\u0438\u043b/Docs/\u0418\u0433\u0440\u043e\u0432\u044b\u0435 \u0444\u0430\u0439\u043b\u044b/Proto/build-ninja/_deps/raylib-build/raylib/cmake_install.cmake",
+		"E:/Users/\u041c\u0438\u0445\u0430\u0438\u043b/Docs/\u0418\u0433\u0440\u043e\u0432\u044b\u0435 \u0444\u0430\u0439\u043b\u044b/Proto/build-ninja/_deps/raylib-build/raylib/external/glfw/cmake_install.cmake",
+		"E:/Users/\u041c\u0438\u0445\u0430\u0438\u043b/Docs/\u0418\u0433\u0440\u043e\u0432\u044b\u0435 \u0444\u0430\u0439\u043b\u044b/Proto/build-ninja/_deps/raylib-build/raylib/external/glfw/src/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
