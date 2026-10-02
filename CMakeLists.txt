@@ -4,6 +4,9 @@ project(NeonBrawl LANGUAGES CXX)
 set(CMAKE_CXX_STANDARD 17)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
+# OpenGL 2.1 is supported by older Windows 7 and VirtualBox graphics drivers.
+set(OPENGL_VERSION "2.1" CACHE STRING "raylib OpenGL backend" FORCE)
+
 include(FetchContent)
 FetchContent_Declare(
     raylib

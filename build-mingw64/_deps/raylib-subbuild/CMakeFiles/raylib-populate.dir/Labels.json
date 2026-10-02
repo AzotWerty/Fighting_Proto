@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "E:/Users/\u041c\u0438\u0445\u0430\u0438\u043b/Docs/\u0418\u0433\u0440\u043e\u0432\u044b\u0435 \u0444\u0430\u0439\u043b\u044b/Proto/build-mingw64/_deps/raylib-subbuild/CMakeFiles/raylib-populate"
+		},
+		{
+			"file" : "E:/Users/\u041c\u0438\u0445\u0430\u0438\u043b/Docs/\u0418\u0433\u0440\u043e\u0432\u044b\u0435 \u0444\u0430\u0439\u043b\u044b/Proto/build-mingw64/_deps/raylib-subbuild/CMakeFiles/raylib-populate.rule"
+		},
+		{
+			"file" : "E:/Users/\u041c\u0438\u0445\u0430\u0438\u043b/Docs/\u0418\u0433\u0440\u043e\u0432\u044b\u0435 \u0444\u0430\u0439\u043b\u044b/Proto/build-mingw64/_deps/raylib-subbuild/CMakeFiles/raylib-populate-complete.rule"
+		},
+		{
+			"file" : "E:/Users/\u041c\u0438\u0445\u0430\u0438\u043b/Docs/\u0418\u0433\u0440\u043e\u0432\u044b\u0435 \u0444\u0430\u0439\u043b\u044b/Proto/build-mingw64/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-build.rule"
+		},
+		{
+			"file" : "E:/Users/\u041c\u0438\u0445\u0430\u0438\u043b/Docs/\u0418\u0433\u0440\u043e\u0432\u044b\u0435 \u0444\u0430\u0439\u043b\u044b/Proto/build-mingw64/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-configure.rule"
+		},
+		{
+			"file" : "E:/Users/\u041c\u0438\u0445\u0430\u0438\u043b/Docs/\u0418\u0433\u0440\u043e\u0432\u044b\u0435 \u0444\u0430\u0439\u043b\u044b/Proto/build-mingw64/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-download.rule"
+		},
+		{
+			"file" : "E:/Users/\u041c\u0438\u0445\u0430\u0438\u043b/Docs/\u0418\u0433\u0440\u043e\u0432\u044b\u0435 \u0444\u0430\u0439\u043b\u044b/Proto/build-mingw64/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-install.rule"
+		},
+		{
+			"file" : "E:/Users/\u041c\u0438\u0445\u0430\u0438\u043b/Docs/\u0418\u0433\u0440\u043e\u0432\u044b\u0435 \u0444\u0430\u0439\u043b\u044b/Proto/build-mingw64/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-mkdir.rule"
+		},
+		{
+			"file" : "E:/Users/\u041c\u0438\u0445\u0430\u0438\u043b/Docs/\u0418\u0433\u0440\u043e\u0432\u044b\u0435 \u0444\u0430\u0439\u043b\u044b/Proto/build-mingw64/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-patch.rule"
+		},
+		{
+			"file" : "E:/Users/\u041c\u0438\u0445\u0430\u0438\u043b/Docs/\u0418\u0433\u0440\u043e\u0432\u044b\u0435 \u0444\u0430\u0439\u043b\u044b/Proto/build-mingw64/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-test.rule"
+		},
+		{
+			"file" : "E:/Users/\u041c\u0438\u0445\u0430\u0438\u043b/Docs/\u0418\u0433\u0440\u043e\u0432\u044b\u0435 \u0444\u0430\u0439\u043b\u044b/Proto/build-mingw64/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"raylib-populate"
+		],
+		"name" : "raylib-populate"
+	}
+}

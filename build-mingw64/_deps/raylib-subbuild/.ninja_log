@@ -1,0 +1,21 @@
+# ninja log v7
+2	63	8116168910537692	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-mkdir	9e8bf9f8f77caa4d
+2	63	8116168910537692	E:/Users/Михаил/Docs/Игровые файлы/Proto/build-mingw64/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-mkdir	9e8bf9f8f77caa4d
+63	29743	8116169207317835	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-download	85a4af29caf8399e
+63	29743	8116169207317835	E:/Users/Михаил/Docs/Игровые файлы/Proto/build-mingw64/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-download	85a4af29caf8399e
+29743	29806	8116169207966093	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-update	32bd289919e2f9e5
+29743	29806	8116169207966093	E:/Users/Михаил/Docs/Игровые файлы/Proto/build-mingw64/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-update	32bd289919e2f9e5
+29806	29865	8116169208564500	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-patch	ecac461c229329fc
+29806	29865	8116169208564500	E:/Users/Михаил/Docs/Игровые файлы/Proto/build-mingw64/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-patch	ecac461c229329fc
+29865	29929	8116169209182849	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-configure	27e8b16c9995bce8
+29865	29929	8116169209182849	E:/Users/Михаил/Docs/Игровые файлы/Proto/build-mingw64/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-configure	27e8b16c9995bce8
+29929	29989	8116169209801187	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-build	f20010f7c273bacc
+29929	29989	8116169209801187	E:/Users/Михаил/Docs/Игровые файлы/Proto/build-mingw64/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-build	f20010f7c273bacc
+29989	30051	8116169210430128	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-install	9c928f56941ead1a
+29989	30051	8116169210430128	E:/Users/Михаил/Docs/Игровые файлы/Proto/build-mingw64/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-install	9c928f56941ead1a
+30051	30127	8116169211165183	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-test	93fee748f3256b61
+30051	30127	8116169211165183	E:/Users/Михаил/Docs/Игровые файлы/Proto/build-mingw64/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-test	93fee748f3256b61
+30127	30212	8116169212032863	CMakeFiles/raylib-populate-complete	cfdc388791e433f7
+30127	30212	8116169212032863	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-done	cfdc388791e433f7
+30127	30212	8116169212032863	E:/Users/Михаил/Docs/Игровые файлы/Proto/build-mingw64/_deps/raylib-subbuild/CMakeFiles/raylib-populate-complete	cfdc388791e433f7
+30127	30212	8116169212032863	E:/Users/Михаил/Docs/Игровые файлы/Proto/build-mingw64/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-done	cfdc388791e433f7

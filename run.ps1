@@ -2,7 +2,8 @@ $ErrorActionPreference = 'Stop'
 $projectRoot = Split-Path -Parent $MyInvocation.MyCommand.Path
 $toolRoot = 'E:\DevTools'
 $cmake = Join-Path $toolRoot 'CMake\bin\cmake.exe'
-$gccRoot = Join-Path $toolRoot 'MSYS2\ucrt64\bin'
+$gccRoot = Join-Path $toolRoot 'MSYS2\mingw64\bin'
+$ninjaRoot = Join-Path $toolRoot 'MSYS2\ucrt64\bin'
 $gcc = Join-Path $gccRoot 'gcc.exe'
 $gxx = Join-Path $gccRoot 'g++.exe'
 
@@ -11,12 +12,12 @@ if (-not (Test-Path $cmake)) {
     exit 1
 }
 if (-not (Test-Path $gxx)) {
-    Write-Host 'C++ compiler was not found. Install MSYS2/UCRT64 and run this file again.' -ForegroundColor Red
+    Write-Host 'C++ compiler was not found. Install MSYS2/MinGW64 and run this file again.' -ForegroundColor Red
     exit 1
 }
 
-$env:Path = $gccRoot + ';' + $env:Path
-$buildDir = Join-Path $projectRoot 'build-ninja'
+$env:Path = $gccRoot + ';' + $ninjaRoot + ';' + $env:Path
+$buildDir = Join-Path $projectRoot 'build-mingw64'
 
 Write-Host 'Configuring build...' -ForegroundColor Cyan
 & $cmake -S $projectRoot -B $buildDir -G 'Ninja' '-DCMAKE_BUILD_TYPE=Release' ('-DCMAKE_C_COMPILER=' + $gcc) ('-DCMAKE_CXX_COMPILER=' + $gxx)

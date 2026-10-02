@@ -1,0 +1,3 @@
+E:/Users/Михаил/Docs/Игровые файлы/Proto/build-mingw64/_deps/raylib-subbuild/CMakeFiles/raylib-populate.dir
+E:/Users/Михаил/Docs/Игровые файлы/Proto/build-mingw64/_deps/raylib-subbuild/CMakeFiles/edit_cache.dir
+E:/Users/Михаил/Docs/Игровые файлы/Proto/build-mingw64/_deps/raylib-subbuild/CMakeFiles/rebuild_cache.dir
